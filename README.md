@@ -369,7 +369,7 @@ Before deployment:
 
 # 🏆 Buildathon Project
 
-Developed for **Techno Titans Buildathon 2025**.
+Developed for **Techno Titans Buildathon 2026**.
 
 **Future You: Living Tree Twin** helps users visualize, understand, and improve the long-term impact of their daily habits through AI-powered simulations and engaging gamified experiences.
 
