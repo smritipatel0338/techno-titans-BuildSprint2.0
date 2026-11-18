@@ -1,0 +1,13 @@
+node_modules/
+frontend/dist/
+.env
+.venv/
+venv/
+__pycache__/
+*.pyc
+.DS_Store
+backend/uploads/
+ai-engine/avatar_jobs/
+ai-engine/avatar_audio/
+ai-engine/avatar_videos/
+ai-engine/SadTalker/
