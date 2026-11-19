@@ -46,7 +46,7 @@ The goal is to help users understand the long-term impact of their daily decisio
 
 11\. Future Self Video Generation (Future Scope) – Generate an optional talking future-self avatar using AI-based image animation and text-to-speech technologies. 
 
-##💡 Our USP — What Makes Future You Different?
+## 💡 Our USP — What Makes Future You Different?
 
 Traditional habit trackers tell you what you have done.
 
