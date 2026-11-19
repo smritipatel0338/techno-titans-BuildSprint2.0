@@ -1,4 +1,4 @@
-#🌱 Future You — Build Today, Meet Tomorrow
+### 🌱 Future You — Build Today, Meet Tomorrow
 
 Don't just track your habits. Experience the future they are creating.
 
@@ -10,7 +10,7 @@ The goal is to help users understand the long-term impact of their daily decisio
 
 ---
 
-🌐 Live Demo
+## 🌐 Live Demo
 
 - 🚀 Live Application: "Explore Future You" (https://techno-titans-one.vercel.app)
 - 🎭 Full application tour specially including *AI Talking Future Self*: "Watch Demo Video" (https://drive.google.com/file/d/1ROKCioWgclzQUZjOTx0ODTAxjm0HQnox/view?usp=drivesdk)
@@ -20,7 +20,7 @@ The goal is to help users understand the long-term impact of their daily decisio
 
 ---
 
-✨ Key Features
+# ✨ Key Features
 
 🌿 1. Digital Twin of Your Habits
 
@@ -75,7 +75,7 @@ Technical Implementation:
 
 ---
 
-💡 Our USP — What Makes Future You Different?
+##💡 Our USP — What Makes Future You Different?
 
 Traditional habit trackers tell you what you have done.
 
@@ -92,7 +92,7 @@ The vision is to make future consequences more understandable, personal, and eng
 
 ---
 
-🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 Layer| Technologies
 Frontend| React.js, Vite, CSS
@@ -106,7 +106,7 @@ Development Tools| Git, GitHub, VS Code
 
 ---
 
-🏗️ Project Architecture
+## 🏗️ Project Architecture
 
 Future You
 │
@@ -128,7 +128,7 @@ Future You
 
 ---
 
-⚙️ How It Works
+# ⚙️ How It Works
 
 1. Users register and enter their daily habit information.
 2. The application stores and organizes behavioral data.
@@ -139,7 +139,7 @@ Future You
 
 ---
 
-🔮 Future Scope
+### 🔮 Future Scope
 
 🧠 Personalized Machine Learning Models
 
@@ -151,7 +151,7 @@ Extend the locally implemented SadTalker feature to dedicated cloud GPU infrastr
 
 Why local GPU currently? SadTalker requires computationally intensive GPU inference. Local GPU execution allowed implementation and testing without the infrastructure costs of hosting a dedicated cloud GPU service.
 
-🚀 Additional Enhancements
+# 🚀 Additional Enhancements
 
 - Customizable future-self avatars and voices.
 - More context-aware AI interactions.
@@ -164,6 +164,7 @@ Why local GPU currently? SadTalker requires computationally intensive GPU infere
 ---
 
 👩‍💻 Developed By
+TEAM-Techno Titans
 
 SMRITI PATEL-LEAD ,ARUSH DIXIT -BACKEND , RIDDAH ABBASI-UI/UX
 presented in BuildSprint2.0 
