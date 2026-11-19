@@ -22,58 +22,29 @@ The goal is to help users understand the long-term impact of their daily decisio
 
 ## ✨ Key Features
 
-🌿 1. Digital Twin of Your Habits
+### Key Features of Future You – Digital Twin of Your Habits
 
-- Track daily activities including sleep, screen time, study hours, physical activity, and spending.
-- Visualize behavioral patterns through an interactive dashboard.
-- Understand how everyday decisions may influence different aspects of life.
+1\. Personalized Habit Tracking – Track daily habits, including sleep, screen time, physical activity, study hours, and spending patterns through user-driven data entry.
 
-🔮 2. Dual Future Simulation
+2\. AI-Powered Habit Analysis – Analyze recorded habits to identify behavioral patterns, consistency, strengths, and areas that need improvement.
 
-Explore two potential versions of your future:
+3\. Dual Future Simulation – Visualize two possible futures: continuing current habits versus adopting healthier and more productive routines.
 
-- Current Future: Understand possible outcomes if your existing habits continue.
-- Improved Future: Explore potential outcomes based on healthier and more productive habits.
+4\. 6-Month & 5-Year Predictions – Project the potential long-term impact of present-day habits on health, academics, lifestyle, and financial well-being.
 
-Compare different lifestyle indicators and understand the impact of changing your routines.
+5\. Personalized Future Self – Generate AI-powered letters from the user's future self, explaining possible consequences and suggesting actionable improvements.
 
-🤖 3. AI-Powered Future Self
+6\. Interactive Progress Dashboard – Visualize habit trends, progress, streaks, and future projections through interactive charts and statistics.
 
-- LLM integration for personalized future-self messages.
-- Context-aware suggestions based on recorded habits.
-- Actionable recommendations to encourage positive behavioral changes.
+7\. Personal Goal Management – Create custom goals with descriptions, motivations, deadlines, and daily or weekly targets.
 
-🎭 4. Talking Future Self — SadTalker Integration
+8\. Digital Twin Visualization – Represent habit development through an evolving virtual environment where the digital plant reflects the user's consistency and lifestyle choices.
 
-Bring your digital future self to life through AI-generated talking avatar videos.
+9\. Friends & Progress Sharing – Connect with friends, share progress, and encourage accountability through social motivation.
 
-Generation Workflow:
+10\. Future AI/ML Personalization – Integrate trained machine learning models with accumulated user habit data to make predictions increasingly personalized over time.
 
-1. Generate a personalized future-self script.
-2. Convert the text into speech.
-3. Provide the portrait and generated audio to SadTalker.
-4. Generate a talking avatar video with synchronized facial movements.
-
-Technical Implementation:
-
-- SadTalker for facial animation and lip synchronization.
-- Local GPU-based video generation.
-- Implemented and tested independently from the deployed web application.
-
-🎯 5. Personalized Goal Management
-
-- Create goals based entirely on individual preferences.
-- Add descriptions, motivations, deadlines, and optional categories.
-- Set daily, weekly, or custom frequencies.
-- Monitor personal progress.
-
-📊 6. Habit Analytics
-
-- Record and visualize daily activities.
-- Monitor behavioral trends.
-- Identify areas that need improvement.
-
----
+11\. Future Self Video Generation (Future Scope) – Generate an optional talking future-self avatar using AI-based image animation and text-to-speech technologies. 
 
 ##💡 Our USP — What Makes Future You Different?
 
